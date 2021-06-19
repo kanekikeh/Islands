@@ -1,2 +1,2 @@
-# Lands
+# Islands
 On the Island
